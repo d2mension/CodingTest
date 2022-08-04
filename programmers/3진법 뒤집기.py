@@ -16,9 +16,5 @@ def solution(n):
         trit %= digit_10
         
         answer += (num * (3 ** i))
-        print(i, digit_10, num, trit)
-
-    print(answer)
-        
-
-solution(45)
+    
+    return answer
