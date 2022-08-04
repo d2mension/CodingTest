@@ -8,5 +8,3 @@ def solution(arr, divisor):
     answer.sort()
 
     return answer
-
-print(solution([5,9,7,10],5))
