@@ -16,5 +16,3 @@ def solution(s):
         cnt += 1
         
     return answer
-
-print(solution("try hello world"))
